@@ -4,7 +4,7 @@ print("I am using github on posit.cloud")
 
 def hello():
   name = input("What is your name: ")
-  print(f"Hello {name}!")
+  print(f"Hello {name}! Fvk")
   
 # test function
 hello()
